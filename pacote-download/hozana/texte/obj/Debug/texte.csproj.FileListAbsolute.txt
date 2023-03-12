@@ -1,0 +1,31 @@
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\bin\Debug\texte.exe.config
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\bin\Debug\texte.exe
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\bin\Debug\texte.pdb
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\obj\Debug\texte.csprojResolveAssemblyReference.cache
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\obj\Debug\texte.CLASSES.resources
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\obj\Debug\texte.Properties.Resources.resources
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\obj\Debug\texte.csproj.GenerateResource.Cache
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\obj\Debug\texte.exe
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\obj\Debug\texte.pdb
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\obj\Debug\texte.CADASTRAMENTO.resources
+C:\Users\BENNY MASSAMBA\Documents\Visual Studio 2015\Projects\AULA DE CONEXÃO SQL vs C#\hozana\texte\obj\Debug\texte.HOZANA.resources
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\texte.exe.config
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\obj\Debug\texte.exe
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\obj\Debug\texte.pdb
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\texte.exe
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\texte.pdb
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\obj\Debug\texte.csprojResolveAssemblyReference.cache
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\obj\Debug\texte.CADASTRAMENTO.resources
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\obj\Debug\texte.CLASSES.resources
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\obj\Debug\texte.HOZANA.resources
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\obj\Debug\texte.Properties.Resources.resources
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\obj\Debug\texte.csproj.GenerateResource.Cache
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\mscorlib.dll
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\System.Net.Http.dll
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\System.Net.Http.xml
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\pt-BR\mscorlib.resources.dll
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\normidna.nlp
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\normnfc.nlp
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\normnfd.nlp
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\normnfkc.nlp
+C:\Users\Bento Zola\Documents\UNIVERSIDADE\Projecto Hozanna\hozana\texte\bin\Debug\normnfkd.nlp
